@@ -1,0 +1,9 @@
+virenv/
+*.pyc
+
+.vscode/
+.idea/
+
+*.log
+
+.env
